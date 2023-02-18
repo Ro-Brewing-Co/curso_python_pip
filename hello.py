@@ -15,3 +15,5 @@ print("printtComprobar proceso y agregarlo (Windows) eval $(ssh-agent - s) ssh-a
 #Con Vim vim config
 #Con VSCode code config
 #Pega la siguiente configuración en el archivo…")
+
+#Recordar hacer el git add "nombre del archivo" y luego tirar el git pull origin master para bajar de github los cambios y luego git push origin master para subir los cambios 
