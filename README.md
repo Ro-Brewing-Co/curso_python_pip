@@ -1,4 +1,9 @@
-#Steps
+# Game project
 
+Para correr el juego debes seguir las siguinetes instrucciones en la terminal:
 
-Cual sería el proceso adecuado...
+'''sh
+
+cd  game
+python3 main.py 
+'''
