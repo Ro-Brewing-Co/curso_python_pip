@@ -19,8 +19,8 @@ def generate_pie_chart(labels, values):
 if __name__ == "__main__":  
   labels = ["a", "b", "c"]
   values = [10, 40, 800]
-  generate_pie_chart(country['Country/Territory'], labels, values)
-  #generate_bar_chart(labels, values)
+  generate_pie_chart(labels, values)
+  generate_bar_chart(labels, values)
 
 
 
