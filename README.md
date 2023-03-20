@@ -2,15 +2,15 @@
 
 Para correr el juego debes seguir las siguinetes instrucciones en la terminal:
 
-''' sh
+'''sh
 
 cd  game
 python3 main.py 
 '''
 
 # App Project
-
-''' sh
+ 
+'''sh
 git clone
 cd app
 source env/bin/activate
