@@ -1,6 +1,9 @@
 import random
 
 
+#Para correrlo desde la terminal, cualquier terminal, debes estar en la carpeta, en este caso se llama game. Luego debes 
+#poner python3 main.py para correr el archivo donde se encuentra el juego, en este caso el archivo se llama main.py
+
 def choose_options():
   options = ('piedra', 'papel', 'tijera')
   user_option = input('piedra, papel o tijera => ')
